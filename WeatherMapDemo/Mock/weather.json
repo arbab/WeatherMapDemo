@@ -1,0 +1,45 @@
+{
+  "coord": {
+    "lon": -80.2498,
+    "lat": 26.2129
+  },
+  "weather": [
+    {
+      "id": 803,
+      "main": "Clouds",
+      "description": "broken clouds",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 303.57,
+    "feels_like": 310.34,
+    "temp_min": 303.14,
+    "temp_max": 304.81,
+    "pressure": 1011,
+    "humidity": 74,
+    "sea_level": 1011,
+    "grnd_level": 1010
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 2.06,
+    "deg": 190
+  },
+  "clouds": {
+    "all": 75
+  },
+  "dt": 1726181082,
+  "sys": {
+    "type": 2,
+    "id": 2041347,
+    "country": "US",
+    "sunrise": 1726139147,
+    "sunset": 1726183722
+  },
+  "timezone": -14400,
+  "id": 4174738,
+  "name": "Tamarac",
+  "cod": 200
+}
